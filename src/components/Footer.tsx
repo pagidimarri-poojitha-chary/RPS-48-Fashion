@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <MapPin size={16} className="text-gold-400" />
-                  <span className="text-gray-300">Hyderabad, Telanagana</span>
+                  <span className="text-gray-300">Secunderabad, Hyderabad</span>
                 </div>
               </div>
             </motion.div>
